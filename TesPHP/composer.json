@@ -1,0 +1,17 @@
+{
+    "name": "legion/tes-php",
+    "autoload": {
+        "psr-4": {
+            "Legion\\TesPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Torangto Situngkir",
+            "email": "torangsitungkir93@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.66"
+    }
+}
