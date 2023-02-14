@@ -1,0 +1,16 @@
+{
+    "name": "legion/psr4",
+    "autoload": {
+        "psr-4": {
+            // "Legion\\Psr4\\": "src/"
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Torangto Situngkir",
+            "email": "torangsitungkir93@gmail.com"
+        }
+    ],
+    "require": {}
+}
