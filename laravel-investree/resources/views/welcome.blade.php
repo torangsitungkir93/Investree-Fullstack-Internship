@@ -9,7 +9,7 @@
     </head>
     <body>
         <div class="app">
-            <example-component></example-component>
+            <example-component>s</example-component>
         </div>
 
         <script src={{ mix('/js/app.js') }}></script>
